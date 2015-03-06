@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<todoitems>
+   <item>
+      <text>Learn Silex</text>
+	  <alreadyDone>yes</alreadyDone>
+   </item>
+   <item>
+      <text>Get Composer</text>
+	  <alreadyDone>yes</alreadyDone>
+   </item>
+   <item>
+      <text>Install Phing</text>
+	  <alreadyDone>no</alreadyDone>
+   </item>
+</todoitems>

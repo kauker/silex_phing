@@ -1,0 +1,6 @@
+{
+    "require": {
+        "silex/silex": "~1.1",
+		"phing/phing": "~2.0"
+    }
+}
